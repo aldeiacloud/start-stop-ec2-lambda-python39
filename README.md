@@ -69,7 +69,6 @@ O objetivo da função é verificar o estado de todas as instâncias EC2 em uma 
 ---
 ---
 Explicação:
-Explicação:
 
 - O código acima primeiro define o cliente EC2 com o Boto3.
 - Em seguida, ele utiliza a função `describe_instances()` para buscar todas as instâncias com a tag "Desliga" com valor "true" e que estejam nos estados "running" ou "stopped".
