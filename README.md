@@ -4,7 +4,7 @@
     - Escolha "Autor do zero/Author from scratch" e dê um nome à sua função
     - Escolha a linguagem Node.js
     - Clique em "Criar função" para criar a sua função
-2. Adicione a política de acesso à função Lambda para gerenciar as instâncias EC2
+2. Adicione a política de acesso à função Lambda para gerenciar as instâncias EC2 (Configuration > Execution role)
     
     - Clique na guia "Permissões" na página da sua função
     - Clique no botão "Adicionar política"
