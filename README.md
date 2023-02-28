@@ -1,7 +1,7 @@
 1. Crie uma função Lambda no console do AWS Lambda
     
     - Acesse o console do AWS Lambda e clique no botão "Criar função"
-    - Escolha "Autor do zero" e dê um nome à sua função
+    - Escolha "Autor do zero/Author from scratch" e dê um nome à sua função
     - Escolha a linguagem Node.js
     - Clique em "Criar função" para criar a sua função
 2. Adicione a política de acesso à função Lambda para gerenciar as instâncias EC2
