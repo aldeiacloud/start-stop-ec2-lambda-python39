@@ -9,7 +9,7 @@
     - Clique na guia "Permissões" na página da sua função
     - Clique no botão "Adicionar política"
     - Selecione a política "AmazonEC2FullAccess" e clique em "Adicionar política"
-    - Em "Configuration" > "General Configuration", altere o tempo de execução para 5 minutos.
+    - Voltando ao painel do Lambda, na aba "Configuration" clique em "General Configuration" no menu a esquerda e altere o tempo de execução da lambda para 5 minutos.
 3. Adicione o código para ligar e desligar as instâncias com tag Desliga com valor true
     
     - Substitua o código da função Lambda pelo seguinte: (Clique em Deploy para salvar)
