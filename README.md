@@ -58,7 +58,7 @@ async function getInstances() {
     - Clique no botão "Salvar" para salvar a sua função Lambda
     - Clique no botão "Testar" para testar sua função Lambda com um evento de exemplo
     - Verifique se as instâncias com a tag "Desliga" e valor "true" são ligadas ou desligadas corretamente.
-    
+---
 Este código em Node.js é uma função Lambda que é executada pelo serviço AWS Lambda e é projetada para ser acionada por um evento do Amazon EventBridge.
 
 O objetivo da função é verificar o estado de todas as instâncias EC2 em uma conta da AWS e ligar ou desligar aquelas que possuem uma tag "Desliga" com valor "true".
